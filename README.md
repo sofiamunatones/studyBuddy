@@ -1,1 +1,1 @@
-# studyBuddy This is my studyBuddy project that I made for COGS 3. 
+# studyBuddy This is my HTML lab i made for COGS 3.
